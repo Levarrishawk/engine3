@@ -1,3 +1,5 @@
+This fork of Engine3 is a reference copy taken at the time Stardust 2.0 was forked from Core3.     In case any subsequent engine updates are not compatible with the Stardust codebase this will remain here as an untouched backup.
+
 # SWGEmu Engine3 #
 
 ## What is SWGEmu? ##
